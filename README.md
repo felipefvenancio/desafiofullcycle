@@ -1,7 +1,7 @@
 # desafiofullcycle
 Url para imagem compilada do desafio FullCycle Rocks em Go:
  ```
- docker push felipefvenancio/desafiofullcyclego:tagname
+ docker pull felipefvenancio/desafiofullcyclego  
  ```
 
 Projeto do  desafio FullCycle Rocks em Go:
