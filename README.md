@@ -1,13 +1,13 @@
 # desafiofullcycle
-`Url para imagem compilada do desafio FullCycle Rocks em Go:`
+Url para imagem compilada do desafio FullCycle Rocks em Go:
  ```
  docker push felipefvenancio/desafiofullcyclego:tagname
  ```
 
-`Projeto do  desafio FullCycle Rocks em Go:`
+Projeto do  desafio FullCycle Rocks em Go:
 
-    - desafio_go
+- [desafio_go](https://github.com/felipefvenancio/desafiofullcycle/tree/main/desafio_go)
     
-`Projeto do  desafio FullCycle Rocks usando Nginx + Node + Mysql:`
+Projeto do  desafio FullCycle Rocks usando Nginx + Node + Mysql:
 
-    - desafio_nginx_node
+- [desafio_nginx_node](https://github.com/felipefvenancio/desafiofullcycle/tree/main/desafio_nginx_node)
