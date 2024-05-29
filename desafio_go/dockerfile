@@ -1,0 +1,9 @@
+FROM golang AS builder
+WORKDIR /myapp
+COPY . /myapp
+RUN CGO_ENABLED=0 GOOS=linux go build -o main main.go
+
+FROM scratch
+WORKDIR /myapp
+COPY --from=builder /myapp/main ./
+CMD [ "./main" ]

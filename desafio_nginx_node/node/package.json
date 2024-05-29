@@ -1,0 +1,16 @@
+{
+  "name": "desafio_nginx_node_app",
+  "version": "1.0.0",
+  "description": "App para desafio Full Cycle",
+  "author": "Felipe Venancio <felipefvenancio@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "nodejs"
+  ],
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "mysql2": "^3.9.8"
+  }
+}
